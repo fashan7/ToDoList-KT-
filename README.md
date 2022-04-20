@@ -1,4 +1,4 @@
-# ToDoList-KT-
+# ToDoList-KT
 This is a basic ToDo List 
 
 This application retrieved all the predefined JSON key values which are TODO's via Retrofit Library. 
